@@ -22,9 +22,9 @@ This project was created as part of the Power BI Workshop at Jobaaj Institute. T
 ---
 
 ## 📂 Repository Contents
-- [Jobaaj Dashboard.pbix](Jobaaj Dashboard.pbix) → Power BI dashboard file  
-- [Jobaaj Dashboard Screenshot.png](Jobaaj Dashboard Screenshot.png) → Preview image of the dashboard  
-- [Jobaaj Certificate.pdf](Jobaaj Certificate.pdf) → Certificate of completion
+- [Jobaaj Dashboard.pbix](#Jobaaj Dashboard.pbix) → Power BI dashboard file  
+- [Jobaaj Dashboard Screenshot.png](#Jobaaj Dashboard Screenshot.png) → Preview image of the dashboard  
+- [Jobaaj Certificate.pdf](#Jobaaj Certificate.pdf) → Certificate of completion
 
 ---
 
