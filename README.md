@@ -1,11 +1,11 @@
 # 📊 Power BI Dashboard – Workshop Project
 
-## 📌 Project Overview
+## 📑 Project Overview
 This project was created as part of the Power BI Workshop at Jobaaj Institute. The dashboard demonstrates the end-to-end data analysis process including data preparation, relationship modeling, and DAX calculations. It provides a visual representation of key business metrics such as sales performance, trends over time, and category-wise analysis, enabling decision-makers to explore data interactively.
 
 ---
 
-## 🛠️ Tools & Skills
+## 🛠️ Skills
 - Power BI (Data Modeling, DAX, Visualizations)
 - Data Cleaning & Transformation
 - Interactive Dashboards
@@ -17,7 +17,14 @@ This project was created as part of the Power BI Workshop at Jobaaj Institute. T
 - 📈 Trend Analysis (time-based performance tracking)  
 - 🏆 KPI Cards with key business metrics  
 - 🌍 Regional/Category-wise breakdown  
-- 🔄 Interactive filters for dynamic exploration  
+- 🔄 Interactive filters for dynamic exploration
+
+---
+
+## 📂 Repository Contents
+- `Jobaaj.pbix` → Power BI dashboard file  
+- `Dashboard_Screenshot.png` → Preview image of the dashboard  
+- `Certificate_Jobaaj.pdf` → Certificate of completion
 
 ---
 
