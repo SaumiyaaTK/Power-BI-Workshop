@@ -1,8 +1,7 @@
 # 📊 Power BI Dashboard – Workshop Project
 
 ## 📌 Project Overview
-This interactive dashboard was created during the **Power BI Workshop** at [Jobaaj Institute](https://www.jobaaj.com/).  
-The dashboard provides insights into **[insert topic: e.g., Sales, Finance, HR, or whichever dataset was used]** using data visualization and KPI tracking.
+This project was created as part of the Power BI Workshop at Jobaaj Institute. The dashboard demonstrates the end-to-end data analysis process including data preparation, relationship modeling, and DAX calculations. It provides a visual representation of key business metrics such as sales performance, trends over time, and category-wise analysis, enabling decision-makers to explore data interactively.
 
 ---
 
