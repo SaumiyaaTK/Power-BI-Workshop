@@ -23,9 +23,9 @@ This project was created as part of the Power BI Workshop at Jobaaj Institute. T
 
 ## 📂 Repository Contents
 
-- [Dashboards](dashboards/) → Contains Power BI dashboard file
-- [Screenshots](screenshots/) → Preview images of dashboards
-- [Certifications](certifications/) → Certificate of completion
+- [Power BI Dashboard](dashboards/) → Contains Power BI dashboard file
+- [Dashboard Screenshot](screenshots/) → Preview images of dashboards
+- [Workshop Certification](certifications/) → Certificate of completion
 
 
 ---
