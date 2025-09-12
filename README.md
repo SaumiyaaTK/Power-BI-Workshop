@@ -1,36 +1,44 @@
-# 📊 Power BI Dashboard – Workshop Project
+# 📊 Power BI Dashboard – Workshop Project 🚀📈  
 
-## 📑 Project Overview
-This project was created as part of the Power BI Workshop at Jobaaj Institute. The dashboard demonstrates the end-to-end data analysis process including data preparation, relationship modeling, and DAX calculations. It provides a visual representation of key business metrics such as sales performance, trends over time, and category-wise analysis, enabling decision-makers to explore data interactively.
+## 📑 Project Overview 📝  
+This project was created as part of the **Power BI Workshop at Jobaaj Institute** 🏫.  
+The dashboard demonstrates the **end-to-end data analysis process** including:  
+- 🧹 Data preparation  
+- 🔗 Relationship modeling  
+- 🧮 DAX calculations  
 
----
+It provides a **visual representation of key business metrics** such as:  
+- 💵 Sales performance  
+- ⏳ Trends over time  
+- 🛍️ Category-wise analysis  
 
-## 🛠️ Skills
-- Power BI (Data Modeling, DAX, Visualizations)
-- Data Cleaning & Transformation
-- Interactive Dashboards
-- Business Insights & Reporting
-
----
-
-## 🔍 Key Features
-- 📈 Trend Analysis (time-based performance tracking)  
-- 🏆 KPI Cards with key business metrics  
-- 🌍 Regional/Category-wise breakdown  
-- 🔄 Interactive filters for dynamic exploration
+Enabling decision-makers 🧑‍💼👩‍💼 to **explore data interactively** 🔄.  
 
 ---
 
-## 📂 Repository Contents
-
-- [Power BI Dashboard](Dashboards/) → Contains Power BI dashboard file
-- [Dashboard Screenshot](Screenshots/) → Preview images of dashboards
-- [Workshop Certification](Certifications/) → Certificate of completion
-
+## 🛠️ Skills Gained 🎯  
+- 📊 **Power BI** (Data Modeling, DAX, Visualizations)  
+- 🧹 **Data Cleaning & Transformation**  
+- 🎛️ **Interactive Dashboards**  
+- 💡 **Business Insights & Reporting**  
 
 ---
 
-## 👤 Author
+## 🔍 Key Features ✨  
+- 📈 **Trend Analysis** → Time-based performance tracking ⏳  
+- 🏆 **KPI Cards** → Displaying key business metrics 📌  
+- 🌍 **Regional/Category-wise breakdown** → Insights by geography & category 🗺️  
+- 🔄 **Interactive Filters** → Dynamic exploration & drill-through 🔍  
+
+---
+
+## 📂 Attachments 📎  
+- 📑 [Power BI Dashboard](Dashboards/) → Power BI `.pbix` file 📂  
+- 🖼️ [Dashboard Screenshot](Screenshots/) → Preview images 🖼️  
+- 🎓 [Workshop Certification](Certifications/) → Certificate of completion 🏅  
+
+---
+
+## 👤 Author ✍️  
 **Saumiyaa T K**  
-🔗 [LinkedIn](https://www.linkedin.com/in/saumiyaa-t-k) | [GitHub](https://github.com/SaumiyaaTK)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/saumiyaa-t-k) | 💻 [GitHub](https://github.com/SaumiyaaTK)  
