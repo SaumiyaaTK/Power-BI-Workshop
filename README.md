@@ -30,8 +30,7 @@ Enabling decision-makers 🧑‍💼👩‍💼 to **explore data interactively*
 - 🌍 **Regional/Category-wise breakdown** → Insights by geography & category 🗺️  
 - 🔄 **Interactive Filters** → Dynamic exploration & drill-through 🔍  
 
-https://raw.githubusercontent.com/SaumiyaaTK/Power-BI-Workshop/main/assets/dashboard.png
-
+---
 
 ## 📂 Attachments 📎  
 - 📑 [Power BI Dashboard](Dashboards/) → Power BI `.pbix` file 📂
