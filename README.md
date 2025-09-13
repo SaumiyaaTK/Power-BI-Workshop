@@ -34,7 +34,8 @@ https://raw.githubusercontent.com/SaumiyaaTK/Power-BI-Workshop/main/assets/dashb
 
 
 ## 📂 Attachments 📎  
-- 📑 [Power BI Dashboard](Dashboards/) → Power BI `.pbix` file 📂  
+- 📑 [Power BI Dashboard](Dashboards/) → Power BI `.pbix` file 📂
+- 📊 [Dashboard Screenshot](Screenshot) → Preview Images ⏳
 - 🎓 [Workshop Certification](Certifications/) → Certificate of completion 🏅  
 
 ---
