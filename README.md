@@ -31,7 +31,7 @@ Enabling decision-makers 🧑‍💼👩‍💼 to **explore data interactively*
 - 🔄 **Interactive Filters** → Dynamic exploration & drill-through 🔍  
 
 <div align="center">
-  <img src="https://github.com/SaumiyaaTK/Power-BI-Workshop/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/SaumiyaaTK/Power-BI-Workshop/blob/main/Banner.png" alt="Dashboard">
 </div>
 
 ## 📂 Attachments 📎  
