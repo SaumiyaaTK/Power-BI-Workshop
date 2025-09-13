@@ -30,11 +30,12 @@ Enabling decision-makers 🧑‍💼👩‍💼 to **explore data interactively*
 - 🌍 **Regional/Category-wise breakdown** → Insights by geography & category 🗺️  
 - 🔄 **Interactive Filters** → Dynamic exploration & drill-through 🔍  
 
----
+<div align="center">
+  <img src="https://github.com/SaumiyaaTK/Power-BI-Workshop/blob/main/Banner.png" alt="DevOpsShack Banner">
+</div>
 
 ## 📂 Attachments 📎  
 - 📑 [Power BI Dashboard](Dashboards/) → Power BI `.pbix` file 📂  
-- 🖼️ [Dashboard Screenshot](Screenshots/) → Preview images 🖼️  
 - 🎓 [Workshop Certification](Certifications/) → Certificate of completion 🏅  
 
 ---
