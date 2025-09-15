@@ -4,8 +4,6 @@
   <img src="https://github.com/SaumiyaaTK/Power-BI-Workshop/blob/main/Jobaaj Dashboard Screenshot.png" alt="Power-BI-Workshop">
 </div>
 
----
-
 ## 📑 Project Overview 📝  
 This project was created as part of the **Power BI Workshop at Jobaaj Institute** 🏫.  
 The dashboard demonstrates the **end-to-end data analysis process** including:  
