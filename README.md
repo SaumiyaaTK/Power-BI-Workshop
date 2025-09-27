@@ -36,13 +36,18 @@ Enabling decision-makers 🧑‍💼👩‍💼 to **explore data interactively*
 
 ---
 
-## 📂 Attachments 📎  
-- 📑 [Power BI Dashboard](Dashboards/) → Power BI `.pbix` file 📂
-- 📊 [Dashboard Screenshot](Screenshot) → Preview Images ⏳
-- 🎓 [Workshop Certification](Certifications/) → Certificate of completion 🏅  
+## 🔗 Attachments  
+- [Power BI Dashboard](Dashboards/) → Power BI `.pbix` file 📂
+- [Dashboard Screenshot](Screenshot) → Preview Images ⏳
+- [Workshop Certification](Certifications/) → Certificate of completion 🏅  
 
 ---
 
 ## 👤 Author ✍️  
 **Saumiyaa T K**  
-🔗 [LinkedIn](https://www.linkedin.com/in/saumiyaa-t-k) | 💻 [GitHub](https://github.com/SaumiyaaTK)  
+[![GitHub](https://img.shields.io/badge/GitHub-SaumiyaaTK-blue?logo=github)](https://github.com/SaumiyaaTK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumiyaa%20T%20K-blue?logo=linkedin)](https://www.linkedin.com/in/saumiyaa-t-k)  
+
+---
+
+⭐ If you like this project, don’t forget to give it a star on GitHub!
