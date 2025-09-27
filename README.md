@@ -4,8 +4,8 @@
   <img src="https://github.com/SaumiyaaTK/Power-BI-Workshop/blob/main/Jobaaj Dashboard Screenshot.png" alt="Power-BI-Workshop">
 </div>
 
-## 📑 Project Overview 📝  
-This project was created as part of the **Power BI Workshop at Jobaaj Institute** 🏫.  
+## 📑 Project Overview 
+This project was created as part of the **Power BI Workshop at Jobaaj Institute**.  
 The dashboard demonstrates the **end-to-end data analysis process** including:  
 - 🧹 Data preparation  
 - 🔗 Relationship modeling  
@@ -16,11 +16,11 @@ It provides a **visual representation of key business metrics** such as:
 - ⏳ Trends over time  
 - 🛍️ Category-wise analysis  
 
-Enabling decision-makers 🧑‍💼👩‍💼 to **explore data interactively** 🔄.  
+Enabling decision-makers 🧑‍💼👩‍💼 to **explore data interactively**.  
 
 ---
 
-## 🛠️ Skills Gained 🎯  
+## 🛠️ Skills Gained 
 - 📊 **Power BI** (Data Modeling, DAX, Visualizations)  
 - 🧹 **Data Cleaning & Transformation**  
 - 🎛️ **Interactive Dashboards**  
@@ -29,10 +29,10 @@ Enabling decision-makers 🧑‍💼👩‍💼 to **explore data interactively*
 ---
 
 ## 🔍 Key Features ✨  
-- 📈 **Trend Analysis** → Time-based performance tracking ⏳  
-- 🏆 **KPI Cards** → Displaying key business metrics 📌  
-- 🌍 **Regional/Category-wise breakdown** → Insights by geography & category 🗺️  
-- 🔄 **Interactive Filters** → Dynamic exploration & drill-through 🔍  
+- 📈 **Trend Analysis** → Time-based performance tracking   
+- 🏆 **KPI Cards** → Displaying key business metrics   
+- 🌍 **Regional/Category-wise breakdown** → Insights by geography & category  
+- 🔄 **Interactive Filters** → Dynamic exploration & drill-through 
 
 ---
 
