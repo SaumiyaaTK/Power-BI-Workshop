@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboard – Workshop Project 🚀📈  
+# 📊 Power BI Dashboard – Workshop Project   
 
 <div align="center">
   <img src="https://github.com/SaumiyaaTK/Power-BI-Workshop/blob/main/Jobaaj Dashboard Screenshot.png" alt="Power-BI-Workshop">
@@ -28,7 +28,7 @@ Enabling decision-makers 🧑‍💼👩‍💼 to **explore data interactively*
 
 ---
 
-## 🔍 Key Features ✨  
+## 🔍 Key Features 
 - 📈 **Trend Analysis** → Time-based performance tracking   
 - 🏆 **KPI Cards** → Displaying key business metrics   
 - 🌍 **Regional/Category-wise breakdown** → Insights by geography & category  
